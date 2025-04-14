@@ -1,0 +1,948 @@
+Repository: .github
+Created At: 12/28/2020
+Last Updated: 10/2/2023
+Link: https://github.com/hack4impact-uiuc/.github
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: 
+Deployment: null
+----------------------------
+
+Repository: academy-assignment-fa20
+Created At: 7/19/2020
+Last Updated: 11/2/2020
+Link: https://github.com/hack4impact-uiuc/academy-assignment-fa20
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,HTML,CSS
+Deployment: null
+----------------------------
+
+Repository: 7000-languages
+Created At: 1/23/2022
+Last Updated: 2/7/2023
+Link: https://github.com/hack4impact-uiuc/7000-languages
+Visibility: public
+README: true
+License: GPL-3.0
+Open Issues: 15
+Open PRs: 0
+Languages: JavaScript,HTML,Shell,Procfile
+Deployment: null
+----------------------------
+
+Repository: bootcamp
+Created At: 8/13/2023
+Last Updated: 9/20/2024
+Link: https://github.com/hack4impact-uiuc/bootcamp
+Visibility: public
+README: true
+License: null
+Open Issues: 6
+Open PRs: 0
+Languages: JavaScript,HTML,CSS
+Deployment: null
+----------------------------
+
+Repository: academy-hw-study-buddies
+Created At: 11/3/2021
+Last Updated: 12/5/2021
+Link: https://github.com/hack4impact-uiuc/academy-hw-study-buddies
+Visibility: public
+README: true
+License: MIT
+Open Issues: 5
+Open PRs: 1
+Languages: JavaScript,SCSS,HTML
+Deployment: null
+----------------------------
+
+Repository: Academy-Carpool-App
+Created At: 10/29/2019
+Last Updated: 1/4/2023
+Link: https://github.com/hack4impact-uiuc/Academy-Carpool-App
+Visibility: public
+README: true
+License: null
+Open Issues: 27
+Open PRs: 27
+Languages: JavaScript,Python,CSS,HTML,Shell,Makefile,Dockerfile
+Deployment: [object Object]
+----------------------------
+
+Repository: academy-sandbox-fa21
+Created At: 9/29/2021
+Last Updated: 11/19/2021
+Link: https://github.com/hack4impact-uiuc/academy-sandbox-fa21
+Visibility: public
+README: true
+License: MIT
+Open Issues: 3
+Open PRs: 3
+Languages: JavaScript,CSS,HTML,Shell
+Deployment: null
+----------------------------
+
+Repository: c2tc-auth
+Created At: 4/26/2019
+Last Updated: 4/30/2019
+Link: https://github.com/hack4impact-uiuc/c2tc-auth
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,Dockerfile
+Deployment: [object Object]
+----------------------------
+
+Repository: closegap
+Created At: 9/24/2020
+Last Updated: 10/2/2020
+Link: https://github.com/hack4impact-uiuc/closegap
+Visibility: public
+README: true
+License: null
+Open Issues: 4
+Open PRs: 4
+Languages: JavaScript,HTML,CSS
+Deployment: [object Object]
+----------------------------
+
+Repository: education
+Created At: 1/8/2019
+Last Updated: 2/12/2019
+Link: https://github.com/hack4impact-uiuc/education
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,Python,HTML
+Deployment: null
+----------------------------
+
+Repository: bridge
+Created At: 5/1/2020
+Last Updated: 1/26/2023
+Link: https://github.com/hack4impact-uiuc/bridge
+Visibility: public
+README: true
+License: MIT
+Open Issues: 31
+Open PRs: 17
+Languages: JavaScript,CSS
+Deployment: [object Object]
+----------------------------
+
+Repository: backend-exercise
+Created At: 2/11/2018
+Last Updated: 9/14/2018
+Link: https://github.com/hack4impact-uiuc/backend-exercise
+Visibility: public
+README: true
+License: null
+Open Issues: 2
+Open PRs: 2
+Languages: Python
+Deployment: null
+----------------------------
+
+Repository: 3dp4me
+Created At: 9/27/2020
+Last Updated: 3/15/2025
+Link: https://github.com/hack4impact-uiuc/3dp4me
+Visibility: public
+README: true
+License: null
+Open Issues: 30
+Open PRs: 6
+Languages: TypeScript,JavaScript,SCSS,CSS,Dockerfile,HTML,Shell
+Deployment: [object Object]
+----------------------------
+
+Repository: communityconnect-labs
+Created At: 10/1/2019
+Last Updated: 1/5/2021
+Link: https://github.com/hack4impact-uiuc/communityconnect-labs
+Visibility: public
+README: true
+License: MIT
+Open Issues: 1
+Open PRs: 1
+Languages: JavaScript,Python,CSS,HTML,Makefile,Dockerfile
+Deployment: [object Object]
+----------------------------
+
+Repository: climate-clock
+Created At: 7/18/2022
+Last Updated: 9/16/2022
+Link: https://github.com/hack4impact-uiuc/climate-clock
+Visibility: public
+README: true
+License: MIT
+Open Issues: 0
+Open PRs: 0
+Languages: TypeScript,HTML,CSS
+Deployment: [object Object]
+----------------------------
+
+Repository: collective-liberty
+Created At: 9/23/2020
+Last Updated: 1/21/2022
+Link: https://github.com/hack4impact-uiuc/collective-liberty
+Visibility: public
+README: true
+License: MIT
+Open Issues: 9
+Open PRs: 3
+Languages: JavaScript,SCSS,CSS,HTML,Dockerfile
+Deployment: [object Object]
+----------------------------
+
+Repository: fa21-bootycamp
+Created At: 7/27/2021
+Last Updated: 9/11/2022
+Link: https://github.com/hack4impact-uiuc/fa21-bootycamp
+Visibility: public
+README: true
+License: null
+Open Issues: 3
+Open PRs: 1
+Languages: JavaScript,HTML,CSS
+Deployment: null
+----------------------------
+
+Repository: fa22-bootycamp
+Created At: 9/13/2022
+Last Updated: 9/15/2022
+Link: https://github.com/hack4impact-uiuc/fa22-bootycamp
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,HTML,CSS
+Deployment: null
+----------------------------
+
+Repository: childs-play-tool
+Created At: 10/1/2018
+Last Updated: 2/26/2022
+Link: https://github.com/hack4impact-uiuc/childs-play-tool
+Visibility: public
+README: true
+License: null
+Open Issues: 20
+Open PRs: 20
+Languages: JavaScript,Python,CSS,HTML,Shell,Dockerfile
+Deployment: null
+----------------------------
+
+Repository: falling-fruit
+Created At: 3/29/2022
+Last Updated: 4/10/2022
+Link: https://github.com/hack4impact-uiuc/falling-fruit
+Visibility: public
+README: true
+License: GPL-3.0
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,TypeScript,HTML,Shell
+Deployment: [object Object]
+----------------------------
+
+Repository: eslint-plugin
+Created At: 8/19/2019
+Last Updated: 1/7/2023
+Link: https://github.com/hack4impact-uiuc/eslint-plugin
+Visibility: public
+README: true
+License: MIT
+Open Issues: 4
+Open PRs: 4
+Languages: TypeScript
+Deployment: null
+----------------------------
+
+Repository: flask-bootcamp-sp19
+Created At: 9/16/2018
+Last Updated: 12/8/2022
+Link: https://github.com/hack4impact-uiuc/flask-bootcamp-sp19
+Visibility: public
+README: true
+License: null
+Open Issues: 6
+Open PRs: 6
+Languages: Python
+Deployment: null
+----------------------------
+
+Repository: frontend-exercise
+Created At: 2/10/2018
+Last Updated: 9/14/2018
+Link: https://github.com/hack4impact-uiuc/frontend-exercise
+Visibility: public
+README: true
+License: null
+Open Issues: 1
+Open PRs: 1
+Languages: JavaScript,HTML,CSS
+Deployment: null
+----------------------------
+
+Repository: infra-auth-cli-tool
+Created At: 3/22/2019
+Last Updated: 4/28/2019
+Link: https://github.com/hack4impact-uiuc/infra-auth-cli-tool
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript
+Deployment: null
+----------------------------
+
+Repository: frontend-boilerplate
+Created At: 2/10/2018
+Last Updated: 3/5/2018
+Link: https://github.com/hack4impact-uiuc/frontend-boilerplate
+Visibility: public
+README: true
+License: null
+Open Issues: 2
+Open PRs: 0
+Languages: JavaScript,HTML,CSS
+Deployment: null
+----------------------------
+
+Repository: glen-world
+Created At: 2/11/2020
+Last Updated: 6/13/2020
+Link: https://github.com/hack4impact-uiuc/glen-world
+Visibility: public
+README: true
+License: MIT
+Open Issues: 15
+Open PRs: 1
+Languages: JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: HackGPT
+Created At: 3/16/2024
+Last Updated: 4/26/2024
+Link: https://github.com/hack4impact-uiuc/HackGPT
+Visibility: public
+README: true
+License: null
+Open Issues: 3
+Open PRs: 0
+Languages: TypeScript,Python,JavaScript,CSS,Dockerfile
+Deployment: [object Object]
+----------------------------
+
+Repository: globalgiving-depth
+Created At: 2/5/2019
+Last Updated: 9/30/2022
+Link: https://github.com/hack4impact-uiuc/globalgiving-depth
+Visibility: public
+README: true
+License: MIT
+Open Issues: 3
+Open PRs: 3
+Languages: Jupyter Notebook,Python
+Deployment: null
+----------------------------
+
+Repository: flask-exercise
+Created At: 2/24/2018
+Last Updated: 6/13/2023
+Link: https://github.com/hack4impact-uiuc/flask-exercise
+Visibility: public
+README: true
+License: null
+Open Issues: 10
+Open PRs: 9
+Languages: Python
+Deployment: null
+----------------------------
+
+Repository: globalgiving-tool
+Created At: 10/1/2018
+Last Updated: 6/9/2022
+Link: https://github.com/hack4impact-uiuc/globalgiving-tool
+Visibility: public
+README: true
+License: null
+Open Issues: 9
+Open PRs: 8
+Languages: Python,Dockerfile
+Deployment: null
+----------------------------
+
+Repository: infra-authentication-client
+Created At: 2/13/2019
+Last Updated: 4/25/2019
+Link: https://github.com/hack4impact-uiuc/infra-authentication-client
+Visibility: public
+README: true
+License: null
+Open Issues: 4
+Open PRs: 0
+Languages: JavaScript
+Deployment: [object Object]
+----------------------------
+
+Repository: infra-authentication-api
+Created At: 2/19/2019
+Last Updated: 4/24/2019
+Link: https://github.com/hack4impact-uiuc/infra-authentication-api
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript
+Deployment: null
+----------------------------
+
+Repository: infra-authentication-examples
+Created At: 4/27/2019
+Last Updated: 4/28/2019
+Link: https://github.com/hack4impact-uiuc/infra-authentication-examples
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript
+Deployment: null
+----------------------------
+
+Repository: inclusive-tech-competition
+Created At: 12/1/2024
+Last Updated: 4/6/2025
+Link: https://github.com/hack4impact-uiuc/inclusive-tech-competition
+Visibility: public
+README: true
+License: null
+Open Issues: 1
+Open PRs: 1
+Languages: CSS,JavaScript,HTML
+Deployment: null
+----------------------------
+
+Repository: infra-authentication-server
+Created At: 2/7/2019
+Last Updated: 9/2/2020
+Link: https://github.com/hack4impact-uiuc/infra-authentication-server
+Visibility: public
+README: true
+License: null
+Open Issues: 18
+Open PRs: 4
+Languages: JavaScript,Dockerfile
+Deployment: [object Object]
+----------------------------
+
+Repository: link-shortener
+Created At: 5/3/2021
+Last Updated: 2/14/2023
+Link: https://github.com/hack4impact-uiuc/link-shortener
+Visibility: public
+README: true
+License: MIT
+Open Issues: 1
+Open PRs: 0
+Languages: TypeScript,CSS,JavaScript,Shell
+Deployment: [object Object]
+----------------------------
+
+Repository: h4i-recruitment
+Created At: 4/4/2018
+Last Updated: 4/9/2022
+Link: https://github.com/hack4impact-uiuc/h4i-recruitment
+Visibility: public
+README: true
+License: null
+Open Issues: 50
+Open PRs: 2
+Languages: JavaScript,CSS,Python,Dockerfile,Shell
+Deployment: [object Object]
+----------------------------
+
+Repository: lotr-playground
+Created At: 1/31/2023
+Last Updated: 2/16/2023
+Link: https://github.com/hack4impact-uiuc/lotr-playground
+Visibility: public
+README: true
+License: null
+Open Issues: 2
+Open PRs: 2
+Languages: TypeScript,JavaScript,Shell
+Deployment: null
+----------------------------
+
+Repository: kiva-pricing-tool
+Created At: 2/27/2018
+Last Updated: 6/1/2021
+Link: https://github.com/hack4impact-uiuc/kiva-pricing-tool
+Visibility: public
+README: true
+License: null
+Open Issues: 4
+Open PRs: 4
+Languages: Python,JavaScript,CSS,HTML,Shell
+Deployment: null
+----------------------------
+
+Repository: life-after-hate
+Created At: 9/26/2019
+Last Updated: 5/22/2024
+Link: https://github.com/hack4impact-uiuc/life-after-hate
+Visibility: public
+README: true
+License: null
+Open Issues: 27
+Open PRs: 14
+Languages: JavaScript,SCSS,HTML,Shell,Dockerfile
+Deployment: [object Object]
+----------------------------
+
+Repository: mli-client
+Created At: 10/8/2019
+Last Updated: 3/25/2022
+Link: https://github.com/hack4impact-uiuc/mli-client
+Visibility: public
+README: true
+License: MIT
+Open Issues: 13
+Open PRs: 12
+Languages: JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: mentee
+Created At: 9/22/2020
+Last Updated: 4/10/2025
+Link: https://github.com/hack4impact-uiuc/mentee
+Visibility: public
+README: true
+License: MIT
+Open Issues: 24
+Open PRs: 0
+Languages: JavaScript,Python,SCSS,HTML,Makefile,Dockerfile,Shell,Procfile
+Deployment: [object Object]
+----------------------------
+
+Repository: next-relay-graphql-template
+Created At: 2/11/2018
+Last Updated: 2/18/2018
+Link: https://github.com/hack4impact-uiuc/next-relay-graphql-template
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript
+Deployment: null
+----------------------------
+
+Repository: kiva-portfolio-tool
+Created At: 2/11/2019
+Last Updated: 2/10/2022
+Link: https://github.com/hack4impact-uiuc/kiva-portfolio-tool
+Visibility: public
+README: true
+License: MIT
+Open Issues: 7
+Open PRs: 6
+Languages: JavaScript,Python,CSS,HTML,Dockerfile,Shell
+Deployment: [object Object]
+----------------------------
+
+Repository: mern-template
+Created At: 12/9/2020
+Last Updated: 3/5/2023
+Link: https://github.com/hack4impact-uiuc/mern-template
+Visibility: public
+README: true
+License: MIT
+Open Issues: 24
+Open PRs: 23
+Languages: JavaScript,HTML,CSS,Shell
+Deployment: [object Object]
+----------------------------
+
+Repository: nnb-backend
+Created At: 10/30/2017
+Last Updated: 12/7/2022
+Link: https://github.com/hack4impact-uiuc/nnb-backend
+Visibility: public
+README: true
+License: null
+Open Issues: 6
+Open PRs: 5
+Languages: Python
+Deployment: [object Object]
+----------------------------
+
+Repository: nnb-frontend
+Created At: 10/30/2017
+Last Updated: 5/7/2018
+Link: https://github.com/hack4impact-uiuc/nnb-frontend
+Visibility: public
+README: true
+License: null
+Open Issues: 16
+Open PRs: 1
+Languages: JavaScript,CSS,HTML
+Deployment: [object Object]
+----------------------------
+
+Repository: kids-save-ocean
+Created At: 2/9/2020
+Last Updated: 3/26/2022
+Link: https://github.com/hack4impact-uiuc/kids-save-ocean
+Visibility: public
+README: true
+License: MIT
+Open Issues: 41
+Open PRs: 30
+Languages: JavaScript,CSS,HTML
+Deployment: [object Object]
+----------------------------
+
+Repository: react-bootcamp-fa18
+Created At: 9/16/2018
+Last Updated: 9/21/2018
+Link: https://github.com/hack4impact-uiuc/react-bootcamp-fa18
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,HTML
+Deployment: null
+----------------------------
+
+Repository: nnb-backend-v2
+Created At: 2/23/2018
+Last Updated: 6/1/2021
+Link: https://github.com/hack4impact-uiuc/nnb-backend-v2
+Visibility: public
+README: true
+License: MIT
+Open Issues: 8
+Open PRs: 3
+Languages: Python,Shell
+Deployment: [object Object]
+----------------------------
+
+Repository: memberdb-tool
+Created At: 1/4/2021
+Last Updated: 3/13/2023
+Link: https://github.com/hack4impact-uiuc/memberdb-tool
+Visibility: public
+README: true
+License: null
+Open Issues: 41
+Open PRs: 30
+Languages: JavaScript,CSS,HTML
+Deployment: [object Object]
+----------------------------
+
+Repository: organization_parser
+Created At: 11/28/2018
+Last Updated: 11/29/2018
+Link: https://github.com/hack4impact-uiuc/organization_parser
+Visibility: public
+README: false
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: Python
+Deployment: null
+----------------------------
+
+Repository: react-map-interaction
+Created At: 4/12/2018
+Last Updated: 4/19/2018
+Link: https://github.com/hack4impact-uiuc/react-map-interaction
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,HTML,CSS
+Deployment: null
+----------------------------
+
+Repository: love-without-boundaries
+Created At: 2/14/2018
+Last Updated: 3/15/2022
+Link: https://github.com/hack4impact-uiuc/love-without-boundaries
+Visibility: public
+README: true
+License: null
+Open Issues: 33
+Open PRs: 27
+Languages: JavaScript,CSS,HTML
+Deployment: [object Object]
+----------------------------
+
+Repository: react-exercise
+Created At: 2/24/2018
+Last Updated: 11/5/2018
+Link: https://github.com/hack4impact-uiuc/react-exercise
+Visibility: public
+README: true
+License: null
+Open Issues: 3
+Open PRs: 1
+Languages: HTML,JavaScript,CSS
+Deployment: null
+----------------------------
+
+Repository: recruitment-portal-product-infra
+Created At: 3/4/2019
+Last Updated: 3/6/2019
+Link: https://github.com/hack4impact-uiuc/recruitment-portal-product-infra
+Visibility: public
+README: true
+License: null
+Open Issues: 10
+Open PRs: 0
+Languages: JavaScript
+Deployment: null
+----------------------------
+
+Repository: philareads
+Created At: 10/3/2018
+Last Updated: 12/8/2022
+Link: https://github.com/hack4impact-uiuc/philareads
+Visibility: public
+README: true
+License: null
+Open Issues: 32
+Open PRs: 9
+Languages: JavaScript,Python,CSS,HTML,Shell,Dockerfile
+Deployment: null
+----------------------------
+
+Repository: simple-chatbot-highschool-workshops
+Created At: 2/22/2019
+Last Updated: 2/27/2019
+Link: https://github.com/hack4impact-uiuc/simple-chatbot-highschool-workshops
+Visibility: public
+README: true
+License: MIT
+Open Issues: 0
+Open PRs: 0
+Languages: Python
+Deployment: null
+----------------------------
+
+Repository: roomble
+Created At: 11/6/2020
+Last Updated: 2/3/2021
+Link: https://github.com/hack4impact-uiuc/roomble
+Visibility: public
+README: true
+License: null
+Open Issues: 17
+Open PRs: 4
+Languages: JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: safe-maps
+Created At: 10/2/2018
+Last Updated: 5/4/2019
+Link: https://github.com/hack4impact-uiuc/safe-maps
+Visibility: public
+README: true
+License: MIT
+Open Issues: 21
+Open PRs: 4
+Languages: JavaScript,Python,Dockerfile
+Deployment: null
+----------------------------
+
+Repository: south-side-weekly
+Created At: 1/30/2021
+Last Updated: 7/21/2022
+Link: https://github.com/hack4impact-uiuc/south-side-weekly
+Visibility: public
+README: true
+License: null
+Open Issues: 1
+Open PRs: 1
+Languages: TypeScript,SCSS,JavaScript,HTML,Shell
+Deployment: [object Object]
+----------------------------
+
+Repository: saverlife
+Created At: 2/11/2020
+Last Updated: 1/4/2023
+Link: https://github.com/hack4impact-uiuc/saverlife
+Visibility: public
+README: true
+License: MIT
+Open Issues: 16
+Open PRs: 15
+Languages: JavaScript,Objective-C,Java,Ruby,Starlark
+Deployment: null
+----------------------------
+
+Repository: takehome-fa20
+Created At: 9/8/2020
+Last Updated: 9/13/2020
+Link: https://github.com/hack4impact-uiuc/takehome-fa20
+Visibility: public
+README: true
+License: null
+Open Issues: 1
+Open PRs: 1
+Languages: JavaScript,Python,HTML,CSS
+Deployment: null
+----------------------------
+
+Repository: takehome-sp19
+Created At: 1/9/2019
+Last Updated: 12/8/2022
+Link: https://github.com/hack4impact-uiuc/takehome-sp19
+Visibility: public
+README: true
+License: null
+Open Issues: 3
+Open PRs: 3
+Languages: JavaScript,Python,HTML,CSS
+Deployment: null
+----------------------------
+
+Repository: technical-interview-fa23-public
+Created At: 9/8/2024
+Last Updated: 9/8/2024
+Link: https://github.com/hack4impact-uiuc/technical-interview-fa23-public
+Visibility: public
+README: false
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: Java,Python
+Deployment: null
+----------------------------
+
+Repository: wiki
+Created At: 2/9/2018
+Last Updated: 3/18/2018
+Link: https://github.com/hack4impact-uiuc/wiki
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: 
+Deployment: [object Object]
+----------------------------
+
+Repository: sourcing-tool
+Created At: 1/9/2020
+Last Updated: 1/5/2023
+Link: https://github.com/hack4impact-uiuc/sourcing-tool
+Visibility: public
+README: true
+License: null
+Open Issues: 22
+Open PRs: 22
+Languages: JavaScript,Python,HTML,CSS
+Deployment: [object Object]
+----------------------------
+
+Repository: wiki-v2
+Created At: 5/19/2018
+Last Updated: 5/20/2018
+Link: https://github.com/hack4impact-uiuc/wiki-v2
+Visibility: public
+README: true
+License: null
+Open Issues: 1
+Open PRs: 0
+Languages: 
+Deployment: null
+----------------------------
+
+Repository: website
+Created At: 12/23/2020
+Last Updated: 7/17/2024
+Link: https://github.com/hack4impact-uiuc/website
+Visibility: public
+README: true
+License: MIT
+Open Issues: 0
+Open PRs: 0
+Languages: Svelte,TypeScript,HTML,JavaScript
+Deployment: [object Object]
+----------------------------
+
+Repository: webdev-intro-workshop
+Created At: 11/11/2020
+Last Updated: 11/21/2020
+Link: https://github.com/hack4impact-uiuc/webdev-intro-workshop
+Visibility: public
+README: true
+License: MIT
+Open Issues: 1
+Open PRs: 1
+Languages: HTML,CSS,JavaScript
+Deployment: [object Object]
+----------------------------
+
+Repository: uiuc.hack4impact.org
+Created At: 6/20/2019
+Last Updated: 1/6/2023
+Link: https://github.com/hack4impact-uiuc/uiuc.hack4impact.org
+Visibility: public
+README: true
+License: null
+Open Issues: 13
+Open PRs: 12
+Languages: HTML,JavaScript,CSS
+Deployment: [object Object]
+----------------------------
+
+Repository: takehome-fa19
+Created At: 9/10/2019
+Last Updated: 2/26/2022
+Link: https://github.com/hack4impact-uiuc/takehome-fa19
+Visibility: public
+README: true
+License: null
+Open Issues: 16
+Open PRs: 16
+Languages: JavaScript,Python,HTML,CSS
+Deployment: null
+----------------------------
+
+Repository: ymca
+Created At: 9/26/2019
+Last Updated: 12/3/2021
+Link: https://github.com/hack4impact-uiuc/ymca
+Visibility: public
+README: true
+License: MIT
+Open Issues: 22
+Open PRs: 2
+Languages: JavaScript,CSS,HTML,Dockerfile
+Deployment: [object Object]
+----------------------------

@@ -1,0 +1,987 @@
+Repository: All-District-Reads-Web
+Created At: 1/31/2024
+Last Updated: 8/16/2024
+Link: https://github.com/Hack4Impact-UMD/All-District-Reads-Web
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: TypeScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: ADR-Mobile
+Created At: 2/14/2024
+Last Updated: 8/16/2024
+Link: https://github.com/Hack4Impact-UMD/ADR-Mobile
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: TypeScript,JavaScript,Ruby,Kotlin,Objective-C,Objective-C++
+Deployment: null
+----------------------------
+
+Repository: All-District-Reads-Mobile
+Created At: 2/5/2024
+Last Updated: 2/8/2024
+Link: https://github.com/Hack4Impact-UMD/All-District-Reads-Mobile
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,HTML,CSS
+Deployment: null
+----------------------------
+
+Repository: ADR-Training
+Created At: 1/31/2024
+Last Updated: 2/3/2024
+Link: https://github.com/Hack4Impact-UMD/ADR-Training
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: 
+Deployment: null
+----------------------------
+
+Repository: Arcadia
+Created At: 3/23/2021
+Last Updated: 5/24/2021
+Link: https://github.com/Hack4Impact-UMD/Arcadia
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: Python
+Deployment: null
+----------------------------
+
+Repository: bootcamp-auth-s25-example
+Created At: 4/13/2025
+Last Updated: 4/14/2025
+Link: https://github.com/Hack4Impact-UMD/bootcamp-auth-s25-example
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: TypeScript,JavaScript,HTML,CSS
+Deployment: null
+----------------------------
+
+Repository: bootcamp-spring2025-todo-app-todo-app
+Created At: 3/24/2025
+Last Updated: 3/24/2025
+Link: https://github.com/Hack4Impact-UMD/bootcamp-spring2025-todo-app-todo-app
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: branch-practice
+Created At: 3/22/2021
+Last Updated: 1/30/2024
+Link: https://github.com/Hack4Impact-UMD/branch-practice
+Visibility: public
+README: false
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: HTML,CSS
+Deployment: null
+----------------------------
+
+Repository: appalachian-trail-conservancy
+Created At: 1/30/2024
+Last Updated: 4/3/2025
+Link: https://github.com/Hack4Impact-UMD/appalachian-trail-conservancy
+Visibility: public
+README: true
+License: null
+Open Issues: 1
+Open PRs: 1
+Languages: TypeScript,CSS,JavaScript,HTML
+Deployment: null
+----------------------------
+
+Repository: chapter-website
+Created At: 10/11/2020
+Last Updated: 12/24/2021
+Link: https://github.com/Hack4Impact-UMD/chapter-website
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: fall2024-application-assessment
+Created At: 7/20/2024
+Last Updated: 8/3/2024
+Link: https://github.com/Hack4Impact-UMD/fall2024-application-assessment
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: HTML,CSS,TypeScript
+Deployment: null
+----------------------------
+
+Repository: breastfeeding-center-gw
+Created At: 2/21/2025
+Last Updated: 4/14/2025
+Link: https://github.com/Hack4Impact-UMD/breastfeeding-center-gw
+Visibility: public
+README: true
+License: null
+Open Issues: 1
+Open PRs: 1
+Languages: TypeScript,HTML,JavaScript,CSS
+Deployment: null
+----------------------------
+
+Repository: fall2023-application-assessment
+Created At: 7/23/2023
+Last Updated: 7/30/2023
+Link: https://github.com/Hack4Impact-UMD/fall2023-application-assessment
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,HTML,CSS
+Deployment: null
+----------------------------
+
+Repository: camp-starfish
+Created At: 2/10/2025
+Last Updated: 4/14/2025
+Link: https://github.com/Hack4Impact-UMD/camp-starfish
+Visibility: public
+README: true
+License: null
+Open Issues: 7
+Open PRs: 7
+Languages: TypeScript,JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: ccf-fall-2024-practice-exercise
+Created At: 9/17/2024
+Last Updated: 9/27/2024
+Link: https://github.com/Hack4Impact-UMD/ccf-fall-2024-practice-exercise
+Visibility: public
+README: true
+License: null
+Open Issues: 8
+Open PRs: 8
+Languages: 
+Deployment: null
+----------------------------
+
+Repository: Fall2024-Recruitment-Testing
+Created At: 5/7/2024
+Last Updated: 5/7/2024
+Link: https://github.com/Hack4Impact-UMD/Fall2024-Recruitment-Testing
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,HTML,CSS
+Deployment: null
+----------------------------
+
+Repository: application-dashboard
+Created At: 11/20/2024
+Last Updated: 12/6/2024
+Link: https://github.com/Hack4Impact-UMD/application-dashboard
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,CSS,TypeScript,HTML
+Deployment: null
+----------------------------
+
+Repository: childrens-cancer-foundation
+Created At: 9/30/2024
+Last Updated: 4/14/2025
+Link: https://github.com/Hack4Impact-UMD/childrens-cancer-foundation
+Visibility: public
+README: true
+License: null
+Open Issues: 7
+Open PRs: 7
+Languages: TypeScript,CSS,HTML,JavaScript
+Deployment: null
+----------------------------
+
+Repository: food-for-all-dc
+Created At: 9/17/2024
+Last Updated: 4/14/2025
+Link: https://github.com/Hack4Impact-UMD/food-for-all-dc
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: TypeScript,HTML,Python,CSS,JavaScript
+Deployment: null
+----------------------------
+
+Repository: h4i-app-starter-task
+Created At: 2/17/2025
+Last Updated: 2/25/2025
+Link: https://github.com/Hack4Impact-UMD/h4i-app-starter-task
+Visibility: public
+README: true
+License: null
+Open Issues: 3
+Open PRs: 3
+Languages: TypeScript,CSS,JavaScript
+Deployment: null
+----------------------------
+
+Repository: html-examples
+Created At: 2/17/2025
+Last Updated: 2/17/2025
+Link: https://github.com/Hack4Impact-UMD/html-examples
+Visibility: public
+README: false
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: HTML
+Deployment: null
+----------------------------
+
+Repository: H4I-InternalTools
+Created At: 10/29/2024
+Last Updated: 12/5/2024
+Link: https://github.com/Hack4Impact-UMD/H4I-InternalTools
+Visibility: public
+README: true
+License: null
+Open Issues: 3
+Open PRs: 3
+Languages: TypeScript,JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: Intro-to-reactsp2021
+Created At: 2/27/2021
+Last Updated: 3/8/2021
+Link: https://github.com/Hack4Impact-UMD/Intro-to-reactsp2021
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,HTML,CSS
+Deployment: null
+----------------------------
+
+Repository: intro-to-git
+Created At: 2/10/2025
+Last Updated: 2/10/2025
+Link: https://github.com/Hack4Impact-UMD/intro-to-git
+Visibility: public
+README: false
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: 
+Deployment: null
+----------------------------
+
+Repository: Intro-to-HTML-Projects
+Created At: 9/19/2020
+Last Updated: 10/4/2020
+Link: https://github.com/Hack4Impact-UMD/Intro-to-HTML-Projects
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: HTML,CSS
+Deployment: null
+----------------------------
+
+Repository: leveling-the-playing-field
+Created At: 9/16/2024
+Last Updated: 2/23/2025
+Link: https://github.com/Hack4Impact-UMD/leveling-the-playing-field
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: TypeScript,CSS,JavaScript
+Deployment: null
+----------------------------
+
+Repository: h4i-internal-application-tool
+Created At: 12/3/2024
+Last Updated: 4/14/2025
+Link: https://github.com/Hack4Impact-UMD/h4i-internal-application-tool
+Visibility: public
+README: true
+License: null
+Open Issues: 2
+Open PRs: 2
+Languages: TypeScript,CSS,HTML,JavaScript
+Deployment: null
+----------------------------
+
+Repository: jefferson-area-board-for-aging
+Created At: 9/24/2023
+Last Updated: 8/13/2024
+Link: https://github.com/Hack4Impact-UMD/jefferson-area-board-for-aging
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: TypeScript,CSS,JavaScript,HTML
+Deployment: null
+----------------------------
+
+Repository: Philippine-Nurses-Association-Of-America
+Created At: 2/1/2024
+Last Updated: 8/13/2024
+Link: https://github.com/Hack4Impact-UMD/Philippine-Nurses-Association-Of-America
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,CSS,TypeScript,HTML
+Deployment: null
+----------------------------
+
+Repository: spring2024-application-assessment
+Created At: 1/8/2024
+Last Updated: 1/8/2024
+Link: https://github.com/Hack4Impact-UMD/spring2024-application-assessment
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,HTML,CSS
+Deployment: null
+----------------------------
+
+Repository: project-team-shadowing
+Created At: 3/2/2025
+Last Updated: 3/2/2025
+Link: https://github.com/Hack4Impact-UMD/project-team-shadowing
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: 
+Deployment: null
+----------------------------
+
+Repository: rise-dc
+Created At: 9/14/2022
+Last Updated: 11/21/2023
+Link: https://github.com/Hack4Impact-UMD/rise-dc
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: TypeScript,CSS,JavaScript,HTML
+Deployment: null
+----------------------------
+
+Repository: lpf-onboarding
+Created At: 2/6/2024
+Last Updated: 10/2/2024
+Link: https://github.com/Hack4Impact-UMD/lpf-onboarding
+Visibility: public
+README: true
+License: null
+Open Issues: 2
+Open PRs: 2
+Languages: TypeScript,CSS,JavaScript
+Deployment: null
+----------------------------
+
+Repository: spring2025-application-assessment
+Created At: 12/29/2024
+Last Updated: 12/29/2024
+Link: https://github.com/Hack4Impact-UMD/spring2025-application-assessment
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,TypeScript,HTML,CSS
+Deployment: null
+----------------------------
+
+Repository: todo-app-AasthaGautam06
+Created At: 3/29/2025
+Last Updated: 3/30/2025
+Link: https://github.com/Hack4Impact-UMD/todo-app-AasthaGautam06
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: swaliga-foundation
+Created At: 2/1/2024
+Last Updated: 10/29/2024
+Link: https://github.com/Hack4Impact-UMD/swaliga-foundation
+Visibility: public
+README: true
+License: null
+Open Issues: 3
+Open PRs: 3
+Languages: TypeScript,CSS,JavaScript
+Deployment: null
+----------------------------
+
+Repository: sustainability-solutions
+Created At: 10/4/2021
+Last Updated: 1/26/2022
+Link: https://github.com/Hack4Impact-UMD/sustainability-solutions
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: TL-Resources
+Created At: 9/15/2023
+Last Updated: 8/12/2024
+Link: https://github.com/Hack4Impact-UMD/TL-Resources
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,CSS,TypeScript,HTML
+Deployment: null
+----------------------------
+
+Repository: tennis-alliance
+Created At: 9/19/2023
+Last Updated: 2/9/2025
+Link: https://github.com/Hack4Impact-UMD/tennis-alliance
+Visibility: public
+README: false
+License: null
+Open Issues: 4
+Open PRs: 4
+Languages: TypeScript,CSS,JavaScript
+Deployment: null
+----------------------------
+
+Repository: the-giving-heart-strapi
+Created At: 10/18/2023
+Last Updated: 11/17/2024
+Link: https://github.com/Hack4Impact-UMD/the-giving-heart-strapi
+Visibility: public
+README: true
+License: null
+Open Issues: 1
+Open PRs: 1
+Languages: JavaScript
+Deployment: null
+----------------------------
+
+Repository: test3
+Created At: 2/7/2024
+Last Updated: 2/7/2024
+Link: https://github.com/Hack4Impact-UMD/test3
+Visibility: public
+README: false
+License: null
+Open Issues: 1
+Open PRs: 1
+Languages: HTML,CSS,JavaScript
+Deployment: null
+----------------------------
+
+Repository: the-giving-heart
+Created At: 9/21/2023
+Last Updated: 11/22/2024
+Link: https://github.com/Hack4Impact-UMD/the-giving-heart
+Visibility: public
+README: true
+License: null
+Open Issues: 2
+Open PRs: 2
+Languages: TypeScript,CSS,JavaScript
+Deployment: [object Object]
+----------------------------
+
+Repository: todo-app
+Created At: 3/24/2025
+Last Updated: 3/24/2025
+Link: https://github.com/Hack4Impact-UMD/todo-app
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: todo-app-abapanapalli-umd
+Created At: 3/31/2025
+Last Updated: 3/31/2025
+Link: https://github.com/Hack4Impact-UMD/todo-app-abapanapalli-umd
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: todo-app-AML441
+Created At: 3/30/2025
+Last Updated: 3/30/2025
+Link: https://github.com/Hack4Impact-UMD/todo-app-AML441
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: todo-app-ArushJain121
+Created At: 3/31/2025
+Last Updated: 3/31/2025
+Link: https://github.com/Hack4Impact-UMD/todo-app-ArushJain121
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: todo-app-dhanyades
+Created At: 4/1/2025
+Last Updated: 4/4/2025
+Link: https://github.com/Hack4Impact-UMD/todo-app-dhanyades
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: todo-app-ilydoa
+Created At: 3/31/2025
+Last Updated: 3/31/2025
+Link: https://github.com/Hack4Impact-UMD/todo-app-ilydoa
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: todo-app-ango06
+Created At: 3/29/2025
+Last Updated: 4/7/2025
+Link: https://github.com/Hack4Impact-UMD/todo-app-ango06
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: todo-app-lailashak
+Created At: 3/31/2025
+Last Updated: 3/31/2025
+Link: https://github.com/Hack4Impact-UMD/todo-app-lailashak
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: todo-app-atungcod
+Created At: 3/27/2025
+Last Updated: 3/31/2025
+Link: https://github.com/Hack4Impact-UMD/todo-app-atungcod
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: todo-app-isabellemtho
+Created At: 4/1/2025
+Last Updated: 4/1/2025
+Link: https://github.com/Hack4Impact-UMD/todo-app-isabellemtho
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: todo-app-msavya
+Created At: 3/29/2025
+Last Updated: 3/29/2025
+Link: https://github.com/Hack4Impact-UMD/todo-app-msavya
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: todo-app-MeenakshiRamaS
+Created At: 3/30/2025
+Last Updated: 3/30/2025
+Link: https://github.com/Hack4Impact-UMD/todo-app-MeenakshiRamaS
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: todo-app-Nishna-Makala
+Created At: 3/27/2025
+Last Updated: 3/29/2025
+Link: https://github.com/Hack4Impact-UMD/todo-app-Nishna-Makala
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: todo-app-pramukhbhushan
+Created At: 3/27/2025
+Last Updated: 4/2/2025
+Link: https://github.com/Hack4Impact-UMD/todo-app-pramukhbhushan
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: todo-app-pardiwalas
+Created At: 3/24/2025
+Last Updated: 3/24/2025
+Link: https://github.com/Hack4Impact-UMD/todo-app-pardiwalas
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: todo-app-naveena-pillai
+Created At: 3/24/2025
+Last Updated: 3/30/2025
+Link: https://github.com/Hack4Impact-UMD/todo-app-naveena-pillai
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: todo-app-SarayuJ3
+Created At: 3/24/2025
+Last Updated: 3/31/2025
+Link: https://github.com/Hack4Impact-UMD/todo-app-SarayuJ3
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: todo-app-SoumyaJailwala
+Created At: 3/30/2025
+Last Updated: 3/30/2025
+Link: https://github.com/Hack4Impact-UMD/todo-app-SoumyaJailwala
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: todo-app-ryanzhao05
+Created At: 3/25/2025
+Last Updated: 3/29/2025
+Link: https://github.com/Hack4Impact-UMD/todo-app-ryanzhao05
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: todo-app-shara-alam
+Created At: 3/29/2025
+Last Updated: 3/31/2025
+Link: https://github.com/Hack4Impact-UMD/todo-app-shara-alam
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: todo-app-yuyuiw
+Created At: 3/29/2025
+Last Updated: 3/29/2025
+Link: https://github.com/Hack4Impact-UMD/todo-app-yuyuiw
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: week3-examples
+Created At: 2/24/2025
+Last Updated: 2/24/2025
+Link: https://github.com/Hack4Impact-UMD/week3-examples
+Visibility: public
+README: false
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: todo-app-tantew24
+Created At: 4/6/2025
+Last Updated: 4/6/2025
+Link: https://github.com/Hack4Impact-UMD/todo-app-tantew24
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: umd-website-redesign
+Created At: 2/26/2022
+Last Updated: 4/10/2025
+Link: https://github.com/Hack4Impact-UMD/umd-website-redesign
+Visibility: public
+README: true
+License: null
+Open Issues: 1
+Open PRs: 1
+Languages: TypeScript,CSS,JavaScript,HTML
+Deployment: [object Object]
+----------------------------
+
+Repository: week7-examples-and-exercises
+Created At: 3/22/2025
+Last Updated: 3/24/2025
+Link: https://github.com/Hack4Impact-UMD/week7-examples-and-exercises
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: week5-examples-and-exercises
+Created At: 3/10/2025
+Last Updated: 3/10/2025
+Link: https://github.com/Hack4Impact-UMD/week5-examples-and-exercises
+Visibility: public
+README: false
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: 
+Deployment: null
+----------------------------
+
+Repository: week4-examples-and-exercises
+Created At: 3/3/2025
+Last Updated: 3/3/2025
+Link: https://github.com/Hack4Impact-UMD/week4-examples-and-exercises
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript
+Deployment: null
+----------------------------
+
+Repository: week9-examples-and-exercises
+Created At: 4/7/2025
+Last Updated: 4/7/2025
+Link: https://github.com/Hack4Impact-UMD/week9-examples-and-exercises
+Visibility: public
+README: false
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: TypeScript,JavaScript
+Deployment: null
+----------------------------
+
+Repository: unstoppable_ui
+Created At: 10/12/2021
+Last Updated: 5/6/2022
+Link: https://github.com/Hack4Impact-UMD/unstoppable_ui
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: TypeScript,JavaScript,SCSS,HTML
+Deployment: null
+----------------------------
+
+Repository: yknot-mentor-portal
+Created At: 2/25/2025
+Last Updated: 4/10/2025
+Link: https://github.com/Hack4Impact-UMD/yknot-mentor-portal
+Visibility: public
+README: false
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: TypeScript,CSS,JavaScript,HTML
+Deployment: null
+----------------------------
+
+Repository: y-knot
+Created At: 2/19/2023
+Last Updated: 8/13/2024
+Link: https://github.com/Hack4Impact-UMD/y-knot
+Visibility: public
+README: true
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: TypeScript,CSS,JavaScript,HTML
+Deployment: null
+----------------------------
+
+Repository: winrock-international
+Created At: 2/19/2025
+Last Updated: 4/14/2025
+Link: https://github.com/Hack4Impact-UMD/winrock-international
+Visibility: public
+README: true
+License: null
+Open Issues: 5
+Open PRs: 5
+Languages: TypeScript,CSS,JavaScript,HTML
+Deployment: null
+----------------------------
+
+Repository: week8-examples-and-exercises
+Created At: 3/30/2025
+Last Updated: 3/31/2025
+Link: https://github.com/Hack4Impact-UMD/week8-examples-and-exercises
+Visibility: public
+README: false
+License: null
+Open Issues: 0
+Open PRs: 0
+Languages: JavaScript,TypeScript,CSS,HTML
+Deployment: null
+----------------------------
+
+Repository: WISE-E
+Created At: 9/27/2020
+Last Updated: 5/3/2021
+Link: https://github.com/Hack4Impact-UMD/WISE-E
+Visibility: public
+README: true
+License: null
+Open Issues: 1
+Open PRs: 1
+Languages: JavaScript,HTML,CSS,Shell
+Deployment: null
+----------------------------
